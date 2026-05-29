@@ -1,0 +1,186 @@
+[
+    {
+        "question": "ĐHQGHN hoạt động dựa trên cơ chế đặc thù nào đối với các Bộ, ban ngành Trung ương?",
+        "context": "ĐHQGHN hoạt động theo cơ chế tự chủ, tự chịu trách nhiệm cao; được làm việc trực tiếp với các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương về những vấn đề liên quan đến hoạt động và phát triển của ĐHQGHN. Các trường đại học, viện nghiên cứu khoa học thành viên thuộc ĐHQGHN là những cơ sở đào tạo, nghiên cứu khoa học và công nghệ có quyền tự chủ cao, có pháp nhân tương đương các trường đại học, viện nghiên cứu khoa học khác được quy định trong Luật Giáo dục, Luật Giáo dục đại học, Luật sửa đổi và bổ sung một số điều của Luật Giáo dục đại học và Luật Khoa học và Công nghệ.",
+        "ground_truth": [
+            "Làm việc trực tiếp với các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ"
+        ],
+        "model_prediction": "ược làm việc trực tiếp với các Bộ, ban ngành Trung ương"
+    },
+    {
+        "question": "Theo Chiến lược KHCN&ĐMST 2021-2030, hoạt động KH, CN&ĐMST đóng vai trò gì đối với sự phát triển của VNU?",
+        "context": "- Khoa học, công nghệ và đổi mới sáng tạo (KHCN&ĐMST) là nền tảng, động lực cho sự phát triển của Đại học Quốc gia Hà Nội (ĐHQGHN).",
+        "ground_truth": [
+            "Là nền tảng, động lực cho sự phát triển của Đại học Quốc gia Hà Nội"
+        ],
+        "model_prediction": "KHCN&ĐMST 2021-2030, hoạt động KH, CN&ĐMST đóng vai trò gì đố"
+    },
+    {
+        "question": "Mục tiêu tổng quát đến năm 2030 của hoạt động KHCN&ĐMST là đưa ĐHQGHN vào nhóm bao nhiêu đại học hàng đầu thế giới?",
+        "context": "Mục tiêu tổng quát đến năm 2030, hoạt động KHCN&ĐMST của ĐHQGHN đóng vai trò nòng cột, góp phần quan trọng trong thực hiện Chiến lược phát triển ĐHQGHN thành đại học nghiên cứu và đổi mới sáng tạo thuộc nhóm 300 đại học hàng đầu thế giới, tham gia giải quyết một số thách thức và cấp bách của quốc gia.",
+        "ground_truth": [
+            "Thuộc nhóm 300 đại học hàng đầu thế giới"
+        ],
+        "model_prediction": "Mục tiêu tổng quát đến năm 2030 của hoạt động KHCN&Đ"
+    },
+    {
+        "question": "Tỷ lệ nghiên cứu sinh tốt nghiệp tại UET có công trình công bố tại các hội nghị, tạp chí quốc tế uy tín là bao nhiêu?",
+        "context": "Sinh viên được thực hành thực tập trên hệ thống trang thiết bị và phòng máy tính hiện đại, được cung cấp tài nguyên học liệu số. 100% môn học có website hỗ trợ giảng dạy, học tập. Từ học kỳ hè năm thứ 3, sinh viên được thực tập tại doanh nghiệp. Trường ĐHCN hợp tác chặt chẽ với một số tập đoàn công nghệ, doanh nghiệp hàng đầu để cung cấp môi trường thực tập và hỗ trợ định hướng nghề nghiệp cho sinh viên.",
+        "ground_truth": [
+            "100%"
+        ],
+        "model_prediction": "Trả lời: Sinh viên được thực tập tại doanh nghiệ"
+    },
+    {
+        "question": "Giấy phép trang thông tin điện tử của ĐHQGHN do cơ quan nào cấp?",
+        "context": "Giấy phép số 993/GP-TTĐT ngày 20/3/2020 của Sở Thông tin và Truyền thông Hà Nội.",
+        "ground_truth": [
+            "Sở Thông tin và Truyền thông Hà Nội"
+        ],
+        "model_prediction": "ược trường động đại học tại đại học tạ"
+    },
+    {
+        "question": "Tầm nhìn đến năm 2045 của ĐHQGHN mong muốn trở thành nơi hội tụ những yếu tố tinh hoa nào?",
+        "context": "Trở thành đại học nghiên cứu đẳng cấp thế giới, vận hành như một tập đoàn tri thức; nơi hội tụ nhân tài, văn hóa và tri thức tinh hoa, dẫn dắt đổi mới sáng tạo của Thủ đô và cả nước, đóng góp quan trọng hiện thực hóa tầm nhìn, mục tiêu phát triển quốc gia.",
+        "ground_truth": [
+            "Hội tụ nhân tài, văn hóa và tri thức tinh hoa"
+        ],
+        "model_prediction": "Tầm nhìn đến năm 2045 của ĐHQGHN mong muốn trở thành n�"
+    },
+    {
+        "question": "ĐHQGHN có quan hệ đối tác chiến lược với các trường đại học hàng đầu nào ở Trung Quốc?",
+        "context": "Với hơn ba thập kỷ hình thành và phát triển, ĐHQGHN đã xây dựng một mạng lưới đối tác rộng khắp, bao gồm gần 400 trường đại học, viện nghiên cứu, tổ chức khoa học công nghệ và tập đoàn đa quốc gia trên khắp thế giới. Các mối quan hệ này không chỉ dừng lại ở số lượng mà còn đi vào chiều sâu, tập trung vào các lĩnh vực quan trọng như nghiên cứu khoa học mũi nhọn, đào tạo liên kết chất lượng cao, chuyển giao công nghệ và trao đổi học thuật. ĐHQGHN tự hào là đối tác chiến lược của nhiều đại học danh tiếng toàn cầu như Đại học Thanh Hoa, Đại học Bắc Kinh (Trung Quốc), Đại học Quốc gia Seoul (Hàn Quốc), Đại học Quốc gia Singapore, Đại học Tokyo (Nhật Bản), Đại học Paris-Saclay (Pháp), Đại học RMIT (Úc) và Đại học College Dublin (Ireland), Đại học Tổng hợp Quốc gia Moskva mang tên M. V. Lomonosov, Đại học Quốc gia Quan hệ Quốc tế Mát-xcơ-va (Nga)... Thông qua hoạt động kết nối của Ban Hợp tác & Phát triển, lãnh đạo, chính trị gia đã được trao bằng GS, TS danh dự của ĐHQGHN, nhiều chuyên gia, học giả hàng đầu thế giới đã nhận lời làm Chủ tịch danh dự, đồng giám đốc các Viện, trung tâm nghiên cứu trọng điểm của ĐHQGHN.",
+        "ground_truth": [
+            "Đại học Thanh Hoa, Đại học Bắc Kinh"
+        ],
+        "model_prediction": "c đạo, chuyển giao công nghệ và trao đổi học thuật. ĐHQGH"
+    },
+    {
+        "question": "Hàng trăm sinh viên ĐHQGHN được nhận học bổng để tham gia hoạt động gì tại các trường đại học đối tác?",
+        "context": "Trong những năm gần đây, hàng năm có gần 1000 sinh viên nước ngoài học tập và nghiên cứu tại ĐHQGHN, tập trung nhiều ở các Trường ĐHKHXH&NV và ĐHNN. Ngược lại, hàng trăm sinh viên ĐHQGHN được nhận học bổng đi trao đổi tại các trường đại học trong mạng lưới hợp tác với ĐHQGHN.",
+        "ground_truth": [
+            "Đi trao đổi"
+        ],
+        "model_prediction": "Trong những năm gần đây, hàng năm có gần 1000 sinh viên nước"
+    },
+    {
+        "question": "How many weeks in total did Roger Federer hold the world No. 1 ranking in men's singles?",
+        "context": "Association of Tennis Professionals (ATP) for 310 weeks (second-most of all time), including a record 237",
+        "ground_truth": [
+            "310 weeks"
+        ],
+        "model_prediction": "Trả lời: 310 weeks"
+    },
+    {
+        "question": "At age eight, in which tennis club's junior program in Basel did Roger Federer's mother enroll him?",
+        "context": "him at age eight in the elite junior programme of the Old Boys Tennis Club in Basel, where he received his",
+        "ground_truth": [
+            "Old Boys Tennis Club"
+        ],
+        "model_prediction": "Trả lời: Old Boys Tennis Club\n     Trả lời: Basel"
+    },
+    {
+        "question": "How many major (Grand Slam) singles titles does Rafael Nadal have in total?",
+        "context": "ATP Tour singles titles, with 22 major titles—including a record 14 French Open titles—as well as 36",
+        "ground_truth": [
+            "22 major titles"
+        ],
+        "model_prediction": "Trả lời: 22 French Open titles\n    Trả lời: French Open titles\n    Trả lời: French Open"
+    },
+    {
+        "question": "In which year did Rafael Nadal win his first Grand Slam title?",
+        "context": "Với sự ảnh hưởng của Cách mạng công nghiệp lần thứ 4, bên cạnh đổi mới phương pháp giảng dạy và quản trị đại học, các trường đại học trong nước cũng đã nhanh chóng bắt tay vào việc xây dựng các chương trình đào tạo mới, đầu tư các hướng nghiên cứu mới. Bên cạnh đó, vấn đề tự chủ đại học cũng được Luật Giáo dục đề cập từ năm 2005 với nội dung tương tự quan niệm của các nước phát triển, tái khẳng định tại Luật Giáo dục năm 2012 và được Chính phủ thúc đẩy trong những năm gần đây nhằm tăng cường tính chủ động, sáng tạo trong hoạt động học thuật cũng như công tác điều hành của các trường đại học để phát triển thành các trường tầm cỡ khu vực và quốc tế. Cuối năm 2018, Luật giáo dục đại học đã được sửa đổi, có nhiều thay đổi căn bản về quản trị đại học, và tự chủ đại học đã được đưa vào Luật.",
+        "ground_truth": [
+            "2005"
+        ],
+        "model_prediction": "19\nNgữ cảnh: Với sự ảnh hưởng của Cách mạng c"
+    },
+    {
+        "question": "How many times did Roger Federer finish the year as the world No. 1?",
+        "context": "Djokovic and Daniil Medvedev have met 15 times, with Djokovic leading 10–5.[360][361] They have contested 4 Grand Slam matches, with Djokovic leading 3–",
+        "ground_truth": [
+            "5 times"
+        ],
+        "model_prediction": "Trả lời: 15 times\n     Trả lời: Roger Federer"
+    },
+    {
+        "question": "Which team competition did Roger Federer and Stan Wawrinka lead Switzerland to win in 2014?",
+        "context": "he won two Olympic gold medals, and led the nation to five Davis Cup titles. Nadal has also opened a",
+        "ground_truth": [
+            "Davis Cup"
+        ],
+        "model_prediction": "Trả lời: Roger Federer and Stan Wawrinka"
+    },
+    {
+        "question": "Who defeated Roger Federer in the men's singles final at the 2012 London Olympics?",
+        "context": "At the US Open, Nadal was the top seed for the first time at a major. He lost in the semi-finals to Andy Murray.[126] Nadal helped Spain defeat the United States",
+        "ground_truth": [
+            "Andy Murray"
+        ],
+        "model_prediction": "Trả lời: Roger Federer"
+    },
+    {
+        "question": "What sportsmanship award did Roger Federer win a record 13 times?",
+        "context": "Stefan Edberg Sportsmanship Award (5): 2010, 2018, 2019, 2020, 2021",
+        "ground_truth": [
+            "Stefan Edberg Sportsmanship Award"
+        ],
+        "model_prediction": "Trả lời: Roger Federer"
+    },
+    {
+        "question": "What medal did Novak Djokovic win in singles at the 2008 Beijing Olympics?",
+        "context": "This made Nadal the second man in the Open Era to have won gold medals in both singles and doubles. Nadal lost the bronze medal match in men's singles to",
+        "ground_truth": [
+            "Bronze medal"
+        ],
+        "model_prediction": "Trả lời: Novak Djokovic won the men's singles gold medal at the 2008 Beijing Olympics"
+    },
+    {
+        "question": "¿Con qué otros jóvenes talentos compartió Lionel Messi sus primeros entrenamientos en Barcelona?",
+        "context": "los que estaban Cesc Fábregas y Gerard Piqué.23  En uno de esos entrenamientos, que se prolongaron dos semanas,19  marcó seis goles y,",
+        "ground_truth": [
+            "Cesc Fábregas y Gerard Piqué"
+        ],
+        "model_prediction": "Trả lời: Lionel Messi"
+    },
+    {
+        "question": "¿En qué liga juega el equipo actual de Cristiano Ronaldo?",
+        "context": "Liga Profesional Saudí",
+        "ground_truth": [
+            "Liga Profesional Saudí"
+        ],
+        "model_prediction": "Cuántos Liga Profesional Saudí"
+    },
+    {
+        "question": "¿Cuál es la estatura de Cristiano Ronaldo?",
+        "context": "1,87 m (6′ 2″)n 1",
+        "ground_truth": [
+            "1,87 m"
+        ],
+        "model_prediction": "Cuál es la estatura de Cristiano Ronaldo"
+    },
+    {
+        "question": "¿Quién fue la pareja de Cristiano Ronaldo entre 2010 y 2015?",
+        "context": "Irina Shayk (2010-2015)",
+        "ground_truth": [
+            "Irina Shayk"
+        ],
+        "model_prediction": "Nhân: Cristiano Ronaldo"
+    },
+    {
+        "question": "¿A qué futbolista se le considera tradicionalmente como el mayor rival de Cristiano Ronaldo?",
+        "context": "Liga de Campeones contra el Barcelona, y el Balón de Oro frente a Lionel Messi, a",
+        "ground_truth": [
+            "Lionel Messi"
+        ],
+        "model_prediction": "A qué futbolista se le considera tradicionale como el mayor rival de Cristiano Ronaldo"
+    },
+    {
+        "question": "¿En qué año debutó Cristiano Ronaldo de forma absoluta con la selección de Portugal?",
+        "context": "Nhiều nhà khoa học của ĐHQGHN đã được tặng những giải thưởng lớn, trong đó một số được công nhận giải thưởng khoa học quốc tế như: Nobel năm 2007; Hành tinh xanh (The Blue Planet Prize, năm 2003); Cosmos Prize lần thứ 16, năm 2008; Huân chương Cành cọ Hàn Lâm của Pháp, năm 2014; Kovalevskaia, năm 2018. Ngoài ra, CBKH của ĐHQGHN còn đạt được nhiều giải thưởng uy tín trong nước như 18 giải thưởng Hồ Chí Minh; 11 giải thưởng Nhà nước và một số giải thưởng khác: Tạ Quang Bửu, Nhân tài Đất Việt (năm 2015, 2017, 2018). Năm 2019, ĐHQGHN có 03 nhà khoa học của ĐHQGHN được Tạp chí PloS Biology công nhận trong danh sách 100.000 nhà khoa học hàng đầu thế giới có trích dẫn khoa học nhiều nhất; 02 nhà khoa học đón nhận giải thưởng Nhân tài Đất Việt năm 2019 lĩnh vực Y Dược và tập thể nữ khoa học nhận giải thưởng Kovalevskaia và 01 nữ khoa học nhận giải thưởng Phụ nữ Việt Nam.",
+        "ground_truth": [
+            "2003"
+        ],
+        "model_prediction": "Nhiều nhà khoa học của ĐHQGHN được tặng những gi�"
+    }
+]
